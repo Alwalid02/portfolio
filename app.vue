@@ -1,6 +1,9 @@
 <template>
-  <div>
-    <h1>Welcom to me portfolio</h1>
-    <p>you can downloads my CV</p>
+  <div class="flex flex-col min-h-screen">
+    <site-header />
+    <main class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8 grow items-start w-full">
+      <NuxtPage />
+    </main>
+    <site-footer />
   </div>
 </template>

@@ -2,7 +2,7 @@
 title: Hello, World!
 description: This is my very first blog post and I'm so excited to share it with you!
 date: 2023-05-23
-cover: camera-back.jpg
+cover: hero.jpg
 tags:
   - blog
 ---
@@ -13,7 +13,7 @@ This is a paragraph.
 
 This is another paragraph.
 
-![Earth from Space](/images/blog/camera-back.jpg)
+![Earth from Space](/images/blog/hero.jpg)
 
 ## This is a heading 2
 
